@@ -7,6 +7,7 @@ The specification does not state whether the database is encrypted. This is cruc
 The first step is to define the encryption strategy based on regulations and business needs. Stable cryptographic methods must be defined for this data to ensure its protection throughout its entire lifecycle.
 
 ### 2. Broken Access Control
+
 Currently, 12 software engineers have full control over the system, and 3 customer support employees and 1 sales employee can view customer information and make changes to orders and accounts.
 
 The more uncontrolled access we give to the system, the more prone we are to unintended disclosure, modification, or even destruction of our information and system. Our entire business is put at a high risk that can quickly turn into a disaster.
